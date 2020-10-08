@@ -1,6 +1,6 @@
   push:
     branches:
-      - master
+      - main
 
 name: Test Across Matrix
 
