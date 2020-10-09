@@ -11,3 +11,7 @@ jobs:
     steps:
     - name: Hello World!
       run: echo "Hello World"
+    runs-on: ubuntu-20.04
+    steps:
+    - name: ubuntu 20 Hello World!
+      run: echo "ubuntu20  Hello World"
